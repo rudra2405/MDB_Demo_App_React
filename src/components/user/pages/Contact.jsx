@@ -43,7 +43,7 @@ export default function Contact() {
     <>
       <Header></Header>
       <MDBContainer className="my-5">
-        <MDBRow className="gx-5">
+        <MDBRow className="gx-5 p-2">
           <div className="col-lg-6 col-12">
             <img
               src="https://images.clickfunnels.com/cdn-cgi/image/width=1400,fit=scale-down,f=auto,q=80/https://statics.myclickfunnels.com/image/322074/file/661ffd02a107a7074cd4485b4bfe8f3d.png"
@@ -90,7 +90,7 @@ export default function Contact() {
           </div>
         </MDBRow>
       </MDBContainer>
-      <section className="my-5">
+      <section className="my-5 p-2">
         <MDBContainer>
           <h5 className="text-center">Visit Us</h5>
           <h1 className="text-center fw-bold text-danger">

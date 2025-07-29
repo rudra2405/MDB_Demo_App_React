@@ -97,7 +97,7 @@ export default function Franshise() {
           </div>
         </MDBRow>
       </section>
-      <MDBRow className="d-lg-none my-4 d-flex">
+      <MDBRow className="d-lg-none my-4 p-2 d-flex">
         <div className="col-12">
           <form
             id="Rudra"
